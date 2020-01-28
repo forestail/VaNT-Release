@@ -45,6 +45,9 @@ VaNTは個人的に仕事で使うために開発しましたが、非常に仕�
 メモリストには最初「すべて」というタブのみが表示されています。後述する絞込みや検索を行うと、このタブが増えます。\
 エディタ部分はメモリストで選択したメモが表示され、編集を行う領域です。
 
+以下はXTmemoのような構成にしたイメージです。
+![XTmemolike](./image/xtmemolike.png "XTMemo Like")
+
 ### 4.3．新規メモ作成
 ![NewMemo](./image/newmemo.png "Create New Memo")
 
