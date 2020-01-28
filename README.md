@@ -27,7 +27,8 @@ VaNTは個人的に仕事で使うために開発しましたが、非常に仕�
 
 ## 3. インストール
 
-releasesタブから最新のインストーラをダウンロードし、`setup.exe`を実行してください。
+[https://github.com/forestail/VaNT-Release/releases](https://github.com/forestail/VaNT-Release/releases)
+から最新のインストーラをダウンロードし、`setup.exe`を実行してください。
 
 
 ## 4．使い方・機能概要
