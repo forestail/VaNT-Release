@@ -263,14 +263,19 @@ VaNTのメモは基本的にテキストベースですが、複雑な表など�
 
 ## 6．環境設定（T.B.D.）
 ### 6.1．環境設定 ＞ 一般
+![SettingBasic](./image/setting_basic.png "Basic Settings")
 
 ### 6.2．環境設定 ＞ エディタ
+![SettingEditor](./image/setting_editor.png "Editor Settings")
 
 ### 6.3．環境設定 ＞ データベース
+![SettingDatabase](./image/setting_database.png "Database Settings")
 
 ### 6.5．環境設定 ＞ 定型
+![SettingTemplate](./image/setting_template.png "Template Settings")
 
 ### 6.5．環境設定 ＞ リマインダ
+![SettingReminder](./image/setting_reminder.png "Reminder Settings")
 
 
 ## 7．ショートカット一覧
