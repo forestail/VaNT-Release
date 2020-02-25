@@ -1,3 +1,7 @@
+※v0.6系からv0.7系にバージョンアップした場合、設定が消える問題があります。その場合は以下の対応をお願いいたします。
+
+https://github.com/forestail/VaNT-Release/wiki/%E3%81%8A%E8%A9%AB%E3%81%B3%E3%81%A8%E3%81%8A%E9%A1%98%E3%81%84
+
 VaNT Document
 =================================
 ![](./image/vant.png "VaNT") VaNT ( *Vanilla Note Taker* )
