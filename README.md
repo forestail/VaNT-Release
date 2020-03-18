@@ -1,6 +1,6 @@
 VaNT Document
 =================================
-![](./image/vant.png "VaNT") VaNT ( *Vanilla Note Taker* )
+![](./image/vant.png "VaNT") VaNT ( *Vanilla Note Taker* ) 　Version 0.7.8
 
 
 ## 1．VaNTについて
@@ -294,7 +294,11 @@ VaNTのメモは基本的にテキストベースですが、複雑な表など�
 
 ![Calculate](./image/VaNT_calc.gif "Calculate")
 
+あるいは、数式の最後に `=` （イコール）を入力してエンターキーを押すと、自動的に計算結果を挿入します。
+
 複数行を選択して右クリックすると、数式とみなされた行の計算結果を全て足しあげた合計を表示します。
+
+![MultiCalculate](./image/VaNT_multicalc.gif "MultiCalculate")
 
 ### 5.13. 表（テーブル）自動成形機能
 
