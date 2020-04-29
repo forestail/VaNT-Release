@@ -1,6 +1,6 @@
 VaNT Document
 =================================
-![](./image/vant.png "VaNT") VaNT ( *Vanilla Note Taker* ) 　Version 0.8.0
+![](./image/vant.png "VaNT") <span style="font-size: 150%;">VaNT ( *Vanilla Note Taker* ) </span>　Version 0.8.0[（更新履歴）](#9-更新履歴)[<font color="red">2020/04/28</font>]
 
 
 ## 1．VaNTについて
