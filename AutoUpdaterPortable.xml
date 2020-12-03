@@ -2,6 +2,6 @@
 <item>
     <version>0.9.12.1</version>
     <url>https://github.com/forestail/VaNT-Release/releases/download/v0.9.12p/VaNT_v09_12_1_portable_pre.zip</url>
-    <changelog>https://github.com/forestail/VaNT-Release/releases</changelog>
+    <!-- <changelog>https://github.com/forestail/VaNT-Release/releases</changelog> -->
     <mandatory>false</mandatory>
 </item>
