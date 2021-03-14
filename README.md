@@ -1,8 +1,8 @@
 VaNT Document
 =================================
-![](./image/vant.png "VaNT") <span style="font-size: 150%;">VaNT ( *Vanilla Note Taker* ) </span>　Version 0.10.1.0[（更新履歴）](#9-更新履歴)[<font color="red">2021/02/25</font>]
+![](./image/vant.png "VaNT") <span style="font-size: 150%;">VaNT ( *Vanilla Note Taker* ) </span>　Version 0.10.2.0[（更新履歴）](#9-更新履歴)[<font color="red">2021/03/14</font>]
 
-[※※　最新情報公開サイトはこちら　※※](https://forestail.com/index.php/vant-top/)（作者管理サイト）
+[※※　最新情報公開サイトはこちら　※※](https://forestail.com/vant-top/)（作者Webサイト）
 
 
 ## 1．VaNTについて
@@ -785,6 +785,7 @@ Migemoを発案された高林哲さん、C/Migemoを開発され簡単に利用
 ## 9. 更新履歴
 |公開日|Ver.|内容|
 |---|---|---|
+|2021/03/14|v0.10.2|・ホットキーによる呼び出し時にVaNTにフォーカスが入らない場合がある問題に対応。|
 |2021/02/25|v0.10.1|・ごみ箱表示時の不具合修正。|
 |2021/02/23|v0.10.0|・メモリスト表示のパフォーマンスを向上し、全てのメモ一覧を表示するようにした。<br/>・不具合修正。|
 |2021/02/14|v0.9.14|・クリップボードにHTMLが入っている場合にMarkdownに変換してペーストするモードを追加。<br/>・不具合修正。|
