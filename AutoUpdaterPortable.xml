@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>0.11.3</version>
-    <url>https://github.com/forestail/VaNT-Release/releases/download/v0.11.3p/VaNT_v0_11_3_portable.zip</url>
+    <version>0.11.4</version>
+    <url>https://github.com/forestail/VaNT-Release/releases/download/v0.11.4p/VaNT_v0_11_4_portable.zip</url>
     <changelog>https://github.com/forestail/VaNT-Release/blob/master/history.md</changelog>
     <mandatory>false</mandatory>
 </item>
